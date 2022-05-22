@@ -1,1 +1,13 @@
 *.txt
+.DS_Store
+
+CONNECT4
+"IBM Logo.ch8"
+"SCTEST.CH8"
+"c8_test.ch8"
+example_logo.ch8
+keypadtest
+pong.rom
+pong1
+test_opcode.ch8
+tetris.rom
